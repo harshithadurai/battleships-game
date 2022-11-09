@@ -539,10 +539,3 @@ void bomb()
   endd:
  getch();
 }
-
-
-
-
-
-
-
