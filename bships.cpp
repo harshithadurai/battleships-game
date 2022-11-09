@@ -8,7 +8,6 @@
 
 int bships_score=0;
 
-
 void inputfield();  //to input values into battlefield
 void printfield();  //to print field
 void printships();  //to print ships
